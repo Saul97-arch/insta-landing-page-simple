@@ -1,1 +1,1 @@
-#insta-landing-page-simple
+Instagram-landing-page-simple
